@@ -48,7 +48,7 @@ Roadsign: The next 10 minutes are for discussing the impact of this is event on 
 * And for how long?
 
 
-#### Root Cause Analysis (5 Whys, Infinite Hows, something) (00:25)
+#### Root Cause Analysis ([5 Whys](https://en.m.wikipedia.org/wiki/5_Whys), [Infinite Hows](https://www.oreilly.com/ideas/the-infinite-hows), something) (00:25)
 Roadsign: The rest of the meeting is for discussing the whys of what happened.  When asking why, ideas for remediation should naturally surface.  Remember to consider engineering tasks as well as documentation improvements and process improvements when looking at remediation ideas.  
 
 ##### Notes from RCA discussions here:
