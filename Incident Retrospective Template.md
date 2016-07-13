@@ -1,4 +1,12 @@
-## Incident <incident_id> (<incident_title>) Retrospective
+## Incident Retrospective
+
+### Do before the meeting:
+* [ ] Link to ticket, external resources
+* [ ] Build timeline
+* [ ] Choose facilitator
+* [ ] Choose note taker
+* [ ] Confirm participant attendance
+* [ ] Book room/video conference
 
 
 #### Purpose
@@ -6,7 +14,6 @@ This is a collaborative discussion of an incident and our response to it. We kno
 
 
 #### Link to incident ticket 
-<ticket link>
 *If you track this incident in another system, link it here.*
 
 
