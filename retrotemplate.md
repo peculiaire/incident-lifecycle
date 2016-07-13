@@ -28,12 +28,10 @@ Roadsign: We’ll spend the first 5 minutes talking over the timeline of the inc
 Filling in the timeline before the retrospective meeting helps the retro go more smoothly.
 
 
-##### Incident responders 
-<responders>
+##### Incident responders:
 
 
-##### Timeline
-<timeline>
+##### Timeline:
 
 
 #### What happened? (00:10)
