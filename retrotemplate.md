@@ -23,6 +23,10 @@ Write down the people who are present
 If critical people are missing, deputize someone to try to engage them
 
 
+#### What do you want to get out of this Retro? (00:03)
+Roadsign: We’ll spend the first 2 minutes discussing what attendees are hoping to get out of this retro.
+
+
 #### Timeline (summary) (00:05)
 Roadsign: We’ll spend the first 5 minutes talking over the timeline of the incident to make sure it represents what happened and includes the perspective of all responders.
 Filling in the timeline before the retrospective meeting helps the retro go more smoothly.
